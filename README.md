@@ -1,2 +1,12 @@
-# ITELEC4---MOBILE-DEV
-Mobile wireframes for **StudyQuest**, an educational quiz app designed for college students. The project showcases the app's user interface, navigation flow, and core features, including quizzes, progress tracking, user authentication, and an intuitive learning experience.
+# StudyQuest Wireframe
+
+## Figma Wireframe
+
+View the wireframe here:
+https://www.figma.com/design/wPLtKPIJgcAQ1cCAFD5W2Q/StudyQuest-Wireframe---ITELEC4---MOBILE-DEV-BSIT-4A?node-id=0-1&t=AMEspm06L0LZqEUw-1
+
+## Course
+ITELEC4 – Mobile Development
+
+## Description
+This repository contains the wireframes for the StudyQuest mobile application. The interactive wireframe is hosted on Figma and can be accessed through the link above.
